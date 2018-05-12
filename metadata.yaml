@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31711'
     url: http://www.gutenberg.org/2009/agents/31711
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25979#Sonnets-of-Shakespeare-s-Ghost
 gutenberg_issued: '2008-07-06'
 gutenberg_type: Text
 identifiers:
